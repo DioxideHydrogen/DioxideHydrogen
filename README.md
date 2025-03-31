@@ -6,17 +6,17 @@
 - Me sinto inspirado a trabalhar no Universo Mobile
 - Atualmente aprendendendo sobre o Universo React
 
-![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=ProfessorJamesBach&layout=compact&langs_count=10&theme=dracula)  
+![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=DioxideHydrogen&layout=compact&langs_count=10&theme=dracula)  
 
-![Contribuições](https://github-readme-stats.vercel.app/api?username=ProfessorJamesBach&count_private=true&show_icons=true&theme=dracula)  
+![Contribuições](https://github-readme-stats.vercel.app/api?username=DioxideHydrogen&count_private=true&show_icons=true&theme=dracula)  
 
-![Snake Commits](https://raw.githubusercontent.com/ProfessorJamesBach/ProfessorJamesBach/output/github-contribution-grid-snake.svg)  
+![Snake Commits](https://raw.githubusercontent.com/ProfessorJamesBach/DioxideHydrogen/output/github-contribution-grid-snake.svg)  
 
 - Projetinhos   
   - Inys  
-  [![Inys](https://github-readme-stats.vercel.app/api/pin/?username=ProfessorJamesBach&repo=Inys&theme=dracula)](https://github.com/ProfessorJamesBach/Inys)  
+  [![Inys](https://github-readme-stats.vercel.app/api/pin/?username=DioxideHydrogen&repo=Inys&theme=dracula)](https://github.com/ProfessorJamesBach/Inys)  
   - Insert Sort inspirado no CS50 de Harvard  
-  [![InsertSort](https://github-readme-stats.vercel.app/api/pin/?username=ProfessorJamesBach&repo=InsertSortPHP&theme=dracula)](https://github.com/ProfessorJamesBach/InsertSortPHP)
+  [![InsertSort](https://github-readme-stats.vercel.app/api/pin/?username=DioxideHydrogen&repo=InsertSortPHP&theme=dracula)](https://github.com/ProfessorJamesBach/InsertSortPHP)
 
 <!--
 **ProfessorJamesBach/ProfessorJamesBach** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
