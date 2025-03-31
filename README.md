@@ -10,7 +10,7 @@
 
 ![Contribuições](https://github-readme-stats.vercel.app/api?username=DioxideHydrogen&count_private=true&show_icons=true&theme=dracula)  
 
-![Snake Commits](https://raw.githubusercontent.com/ProfessorJamesBach/DioxideHydrogen/output/github-contribution-grid-snake.svg)  
+![Snake Commits](https://raw.githubusercontent.com/DioxideHydrogen/DioxideHydrogen/output/github-contribution-grid-snake.svg)  
 
 - Projetinhos   
   - Inys  
