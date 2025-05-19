@@ -2,9 +2,8 @@
 
 - Trabalho a 5 anos com Desenvolvimento Web
 - Me sinto confortável trabalhando com PHP/Laravel e Javascript/Node.js
-- Com ajuda consigo desenvolver aplicações usando React.js, e Java.
-- Me sinto inspirado a trabalhar no Universo Mobile
-- Atualmente aprendendendo sobre o Universo React
+- Consigo desenvolver aplicativos em Flutter
+- Atualmente aprendendo sobre IA
 
 ![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=DioxideHydrogen&layout=compact&langs_count=10&theme=dracula)  
 
@@ -12,7 +11,7 @@
 
 ![Snake Commits](https://raw.githubusercontent.com/DioxideHydrogen/DioxideHydrogen/output/github-contribution-grid-snake.svg)  
 
-- Projetinhos   
+- Projetos  
   - Inys  
   [![Inys](https://github-readme-stats.vercel.app/api/pin/?username=DioxideHydrogen&repo=Inys&theme=dracula)](https://github.com/ProfessorJamesBach/Inys)  
   - Insert Sort inspirado no CS50 de Harvard  
