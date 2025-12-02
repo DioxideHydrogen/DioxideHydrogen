@@ -1,33 +1,24 @@
-### Olá, eu sou o Hugo Henrique 👋
+# Olá, eu sou o Hugo Henrique 👋
 
-- Trabalho a 5 anos com Desenvolvimento Web
-- Me sinto confortável trabalhando com PHP/Laravel e Javascript/Node.js
-- Consigo desenvolver aplicativos em Flutter
-- Atualmente aprendendo sobre IA
+- Desenvolvedor Web com **5 anos de experiência**.  
+- Hábil em **PHP/Laravel** e **JavaScript/Node.js** no back-end.  
+- Também desenvolvo apps móveis com **Flutter**.  
+- Atualmente estudando **Inteligência Artificial**.
 
-![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=DioxideHydrogen&layout=compact&langs_count=10&theme=dracula)  
+## 🏆 Troféus do GitHub
+![Troféus do GitHub](https://github-profile-trophy.vercel.app/?username=ProfessorJamesBach&theme=dracula&no-frame=true&no-bg=true)  
 
-![Contribuições](https://github-readme-stats.vercel.app/api?username=DioxideHydrogen&count_private=true&show_icons=true&theme=dracula)  
+## 📊 Estatísticas do GitHub
+<p align="center">
+  <img width="45%" src="https://github-readme-stats.vercel.app/api?username=ProfessorJamesBach&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub do Hugo" /> 
+  <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ProfessorJamesBach&layout=compact&theme=dracula&langs_count=8" alt="Linguagens mais usadas" />
+</p>
 
-![Snake Commits](https://raw.githubusercontent.com/DioxideHydrogen/DioxideHydrogen/output/github-contribution-grid-snake.svg)  
+![GitHub Streak](https://streak-stats.demolab.com?user=ProfessorJamesBach&locale=pt_BR&mode=daily&theme=dracula&hide_border=true)  
 
-- Projetos  
-  - Inys  
-  [![Inys](https://github-readme-stats.vercel.app/api/pin/?username=DioxideHydrogen&repo=Inys&theme=dracula)](https://github.com/ProfessorJamesBach/Inys)  
-  - Insert Sort inspirado no CS50 de Harvard  
-  [![InsertSort](https://github-readme-stats.vercel.app/api/pin/?username=DioxideHydrogen&repo=InsertSortPHP&theme=dracula)](https://github.com/ProfessorJamesBach/InsertSortPHP)
+## 🌟 Projetos em Destaque
+- **[Inys](https://github.com/ProfessorJamesBach/Inys):** Projeto pessoal (em desenvolvimento).  
+- **[InsertSortPHP](https://github.com/ProfessorJamesBach/InsertSortPHP):** Algoritmo de ordenação por inserção inspirado pelo curso CS50 de Harvard.
 
-<!--
-**ProfessorJamesBach/ProfessorJamesBach** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🐍 Jogo da Cobrinha
+![Snake animation](https://raw.githubusercontent.com/ProfessorJamesBach/ProfessorJamesBach/output/github-contribution-grid-snake.svg)
